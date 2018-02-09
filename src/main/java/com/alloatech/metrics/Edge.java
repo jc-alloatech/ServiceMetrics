@@ -15,9 +15,9 @@
  */
 package com.alloatech.metrics;
 
-import com.alloatech.metrics.Edge.EdgeBuilder;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
+
 import lombok.Builder;
 import lombok.Data;
 import lombok.experimental.Accessors;
@@ -25,11 +25,11 @@ import lombok.experimental.Accessors;
 /**
  * @author thor
  */
-@Data
+@Data 
 @Builder
 @Accessors(fluent = true, chain = true)
-@JsonDeserialize(builder = EdgeBuilder.class)
-public class Edge {
+@JsonDeserialize(builder = Edge.EdgeBuilder.class)
+public class Edge { 
     
     private final String from;
     private final String to;

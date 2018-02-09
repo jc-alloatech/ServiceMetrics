@@ -5,6 +5,7 @@
  */
 package com.alloatech.metrics;
 
+import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.util.List;
 import com.fasterxml.jackson.core.JsonProcessingException;
@@ -23,9 +24,10 @@ import lombok.experimental.Accessors;
 public class ServiceSummaryMetrics {
 
     private final int callCount;
-    private final LocalDateTime dateTimestampStart;
-    private final LocalDateTime dateTimestampEnd;
+    private final LocalDate dateTimestampStart;
+    private final LocalDate dateTimestampEnd;
     private final List<String> consumerIds;
+    private final int consumerCount;
     private final String serviceName;
     private final String capabilityGroupName;
     private final String capabilityName;

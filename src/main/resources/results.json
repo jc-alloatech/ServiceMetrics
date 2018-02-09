@@ -1,0 +1,1571 @@
+{ "results" : [{
+  "callCount" : 2019493,
+  "dateTimestampStart" : "2017-10-01",
+  "dateTimestampEnd" : "2017-10-31",
+  "consumerIds" : [ "Westfield.WesCom.PL", "ContactManager", "UnderwritingManagement.RiskAnalysis.determinePredictionModifier", "Westfield.Geocoding.Client", "Westfield.WesCom.RCC", "WFLD.MF.EUGO", "WFLD.MF.PUGC", "WFLD.MF.PUGO", "WFLD.MF.PWESD299", "WFLD.MF.ONLINE.JOB", "Westfield.WesCom.CL", "Westfield.WesCom.Farm", "WFLD.MF.EUGC", "ClaimCenter", "WESTFIELD.MAINFRAME.TWE1", "WFLD.MF.EIGC", "WFLD.MF.EIGO", "WFLD.MF.PIGC", "WFLD.MF.PIGO", "WFLD.MF.PQQTC", "WFLD.MF.PUDC", "WFLD.MF.PUHI", "WFLD.MF.PWESD298", "WFLD.MF.PWESD421", "WFLD.MF.PWESD530", "WFLD.MF.PWESD564", "WFLD.MF.PWFCD046", "WFLD.MF.PWFCD048", "WFLD.MF.PWFCD201", "WFLD.MF.PWFCD298", "WFLD.MF.PWFCD530", "WFLD.MF.PWFCD564", "WFLD.MF.WPHR", "WFLD.MF.WRAU", "Commercial Surety", "WFLD.MF.PILS", "WFLD.MF.PUBC", "WFLD.MF.PWESW122", "WFLD.MF.PWESW123", "WFLD.MF.PWESW124", "WFLD.MF.PWESW125", "WFLD.MF.PWESW130", "WFLD.MF.PWMCD298", "WFLD.MF.PWMCD530", "WFLD.MF.PWMCD564", "WFLD.MF.EUBC", "WFLD.MF.PULS", "WFLD.MF.PUDR", "WFLD.MF.PISOM103", "WFLD.MF.PISOM205", "WFLD.MF.PISOQ010", "WFLD.MF.PISOQ050", "WFLD.MF.PUHF", "WFLD.MF.EINQ", "WFLD.MF.EUDC", "WFLD.MF.EUQT" ],
+  "serviceName" : "GET-GEOCODE",
+  "capabilityGroupName" : "Enterprise",
+  "capabilityName" : "Location Services",
+  "componentName" : "Location",
+  "interfaceName" : "GeoSpatial",
+  "operationName" : "getGeocode",
+  "serviceVersions" : [ "3.0", "4.0", "2.0" ]
+},{
+  "callCount" : 1588472,
+  "dateTimestampStart" : "2017-10-01",
+  "dateTimestampEnd" : "2017-10-31",
+  "consumerIds" : [ "ClaimCenter", "Westfield.UnderwritingManagement.RiskAnalysis.determinePredictionModifier", "Westfield.WesCom.CL", "Westfield.WesCom.FAB", "Westfield.WesCom.PL", "WFLD.MF.EICP", "WFLD.MF.EUCP", "WFLD.MF.ONLINE.JOB", "WFLD.MF.PICP", "WFLD.MF.PIVL", "WFLD.MF.PQQTC", "WFLD.MF.PUCP", "WFLD.MF.PWESD231", "WFLD.MF.PWESD342", "WFLD.MF.PWESD353", "WFLD.MF.PWESD427", "WFLD.MF.PWESD627", "WFLD.MF.PWESD628", "WFLD.MF.PWESD828", "WFLD.MF.PWESO049", "WFLD.MF.PWFCD231", "WFLD.MF.PWFCD284", "WFLD.MF.PWFCD342", "WFLD.MF.PWFCD353", "WFLD.MF.PWFCD427", "WFLD.MF.PWFCD627", "WFLD.MF.PWFCD628", "WFLD.MF.PWFCD828", "WFLD.MF.WPHR", "WFLD.MF.WPRT", "WFLD.MF.EUOC", "WFLD.MF.PUOC", "WFLD.MF.EISV", "WFLD.MF.PIOC", "WFLD.MF.PWMCD231", "WFLD.MF.PWMCD342", "WFLD.MF.PWMCD353", "WFLD.MF.PWMCD427", "WFLD.MF.PWMCD627", "WFLD.MF.PWMCD628", "WFLD.MF.PWMCD828", "WFLD.MF.PWESO353", "WFLD.MF.EIOC", "WFLD.MF.PWESO054", "WFLD.MF.PISV" ],
+  "serviceName" : "PhysicalObjectManager.retrieveModelSpecifications",
+  "capabilityGroupName" : "Product Management, Underwriting & Processing",
+  "capabilityName" : "Risk Analysis, Underwriting & Pricing",
+  "componentName" : "Underwriting",
+  "interfaceName" : "PhysicalObjectManager",
+  "operationName" : "retrieveModelSpecifications",
+  "serviceVersions" : [ "1.0" ]
+},{
+  "callCount" : 1803785,
+  "dateTimestampStart" : "2017-10-01",
+  "dateTimestampEnd" : "2017-10-31",
+  "consumerIds" : [ "Westfield.UnderwritingManagement.RiskAnalysis.determinePredictionModifier", "Westfield.WesCom.PL", "WFLD.MF.EIHC", "WFLD.MF.EIHE", "WFLD.MF.EIHI", "WFLD.MF.EUHC", "WFLD.MF.EUHE", "WFLD.MF.EUHI", "WFLD.MF.PIHC", "WFLD.MF.PIHE", "WFLD.MF.PIHI", "WFLD.MF.PIHZ", "WFLD.MF.PILS", "WFLD.MF.PMOED125", "WFLD.MF.PQQTC", "WFLD.MF.PUHC", "WFLD.MF.PUHE", "WFLD.MF.PUHI", "WFLD.MF.PWESD267", "WFLD.MF.PWESD268", "WFLD.MF.PWESD269", "WFLD.MF.PWESD342", "WFLD.MF.PWESD343", "WFLD.MF.PWESD349", "WFLD.MF.PWESD353", "WFLD.MF.PWESD446", "WFLD.MF.PWESD448", "WFLD.MF.PWFCD046", "WFLD.MF.PWFCD342", "WFLD.MF.PWFCD353", "WFLD.MF.PWFCD446", "WFLD.MF.WPHR", "WFLD.MF.WPRT", "WFLD.MF.PULS", "WFLD.MF.PWMCD342", "WFLD.MF.PWMCD353", "WFLD.MF.PWMCD446", "WFLD.MF.ONLINE.JOB", "WFLD.MF.PWESO353", "WFLD.MF.EIHZ", "WFLD.MF.DWE6O555", "WFLD.MF.DWE9O555" ],
+  "serviceName" : "Rating.RatingManager.retrieveRatingStatistics",
+  "capabilityGroupName" : "Product Management, Underwriting & Processing",
+  "capabilityName" : "Risk Analysis, Underwriting & Pricing",
+  "componentName" : "Rating",
+  "interfaceName" : "RatingManager",
+  "operationName" : "retrieveRatingStatistics",
+  "serviceVersions" : [ "1.1", "1.0" ]
+},{
+  "callCount" : 993582,
+  "dateTimestampStart" : "2017-10-01",
+  "dateTimestampEnd" : "2017-10-31",
+  "consumerIds" : [ "Unknown", "Westfield.AccountInventory.PreQuote", "Westfield.WesCom.PL", "WFLD.MF.EIGC", "WFLD.MF.EUGC", "WFLD.MF.ONLINE.JOB", "WFLD.MF.PIGC", "WFLD.MF.PQQTC", "WFLD.MF.PRPTD933", "WFLD.MF.PUGC", "WFLD.MF.PUHI", "WFLD.MF.PWESD140", "WFLD.MF.PWESD298", "WFLD.MF.PWESD353", "WFLD.MF.PWESD424", "WFLD.MF.PWFCD046", "WFLD.MF.PWFCD284", "WFLD.MF.PWFCD298", "WFLD.MF.PWFCD353", "WFLD.MF.PWFCD424", "WFLD.MF.WPHR", "WFLD.MF.WPRT", "Westfield.UnderwritingManagement.RiskAnalysis.determinePredictionModifier", "WFLD.MF.PRPTW030", "WFLD.MF.PWESW132", "WFLD.MF.PWMCD298", "WFLD.MF.PWMCD353", "WFLD.MF.PWMCD424", "WFLD.MF.PWESO353", "WFLD.MF.PILS", "WFLD.MF.PUDR", "WFLD.MF.PRPTW130", "WESTFIELD.MAINFRAME.T124" ],
+  "serviceName" : "UnderwritingManagement.RiskAnalysis.activateScore",
+  "capabilityGroupName" : "Product Management, Underwriting & Processing",
+  "capabilityName" : "Risk Analysis, Underwriting & Pricing",
+  "componentName" : "UnderwritingManagement",
+  "interfaceName" : "RiskAnalysis",
+  "operationName" : "activateScore",
+  "serviceVersions" : [ "1.0", "1.1" ]
+},{
+  "callCount" : 827540,
+  "dateTimestampStart" : "2017-10-01",
+  "dateTimestampEnd" : "2017-10-31",
+  "consumerIds" : [ "Agency", "AgencyMapping.Client", "WFLD.MF.EIBI", "WFLD.MF.FSIS", "WFLD.MF.PIBI", "WFLD.MF.PIHS", "WFLD.MF.PILS", "AWP", "PolicyInquiry.Client", "ClaimCenterManager.Client", "WFLD.MF.PAISA033", "WFLD.MF.PULS", "WFLD.MF.PRPTQ851", "WFLD.MF.PBCMM338" ],
+  "serviceName" : "Majesco.Agency.AgencyInfoService",
+  "capabilityGroupName" : "Sales, Distribution & Service",
+  "capabilityName" : "Distribution Management",
+  "componentName" : "Majesco",
+  "interfaceName" : "Agency",
+  "operationName" : "AgencyInfoService",
+  "serviceVersions" : [ "1.0" ]
+},{
+  "callCount" : 920352,
+  "dateTimestampStart" : "2017-10-01",
+  "dateTimestampEnd" : "2017-10-31",
+  "consumerIds" : [ "CommercialSurety.Gateway", "DnBReport_webapp", "Westfield.UnderwritingManagement.RiskAnalysis.determinePredictionModifier", "Westfield.WesCom.CL", "Westfield.WesCom.FAB", "WFLD.MF.EIPT", "WFLD.MF.EUPT", "WFLD.MF.PUPT", "WFLD.MF.PWESD350", "WFLD.MF.PWESD705", "WFLD.MF.PWFCD350", "WFLD.MF.PWESW136", "WFLD.MF.PWMCD350", "WFLD.MF.PIPT" ],
+  "serviceName" : "Party.PartyActivityConditionPlaceManager.generatePersonalCreditScoreAssessment",
+  "capabilityGroupName" : "Product Management, Underwriting & Processing",
+  "capabilityName" : "Risk Analysis, Underwriting & Pricing",
+  "componentName" : "Party",
+  "interfaceName" : "PartyActivityConditionPlaceManager",
+  "operationName" : "generatePersonalCreditScoreAssessment",
+  "serviceVersions" : [ "1.0" ]
+},{
+  "callCount" : 975291,
+  "dateTimestampStart" : "2017-10-01",
+  "dateTimestampEnd" : "2017-10-31",
+  "consumerIds" : [ "FileNet", "ClaimCenterManager", "AWP", "PolicyInquiry.Client", "Captiva", "CommercialSurety.Gateway", "SOAP UI", "WesCom", "Westfield.AccountInventory.PNR", "Westfield.UnderwritingManagement.RiskAnalysis.determinePredictionModifier", "1.0", "IBM_Watson_Credential" ],
+  "serviceName" : "InsuranceAgreementManager.retrieveInsuredRolesForPolicy",
+  "capabilityGroupName" : "Product Management, Underwriting & Processing",
+  "capabilityName" : "Risk Analysis, Underwriting & Pricing",
+  "componentName" : "Risk Rating",
+  "interfaceName" : "InsuranceAgreementManager",
+  "operationName" : "retrieveInsuredRolesForPolicy",
+  "serviceVersions" : [ "2.0", "1.0", "InsuranceAgreementManager.retrieveInsurancePolicySummary" ]
+},{
+  "callCount" : 1604946,
+  "dateTimestampStart" : "2017-10-01",
+  "dateTimestampEnd" : "2017-10-31",
+  "consumerIds" : [ "Filenet", "ClaimCommunicationService", "CommunicationManager", "ThunderheadAttach", "communication.object.manager", "AgencyDownload", "Westfield.Wescom.EDocs", "Westfield.Wescom.FAB", "Westfield.WesCom.PL", "Westfield.Wescom.WOW", "1.0", "ProviderAgreementAdministration.Client" ],
+  "serviceName" : "CommunicationObjectManager.handleUpdatedDocumentMetadataEventNotification",
+  "capabilityGroupName" : "Enterprise",
+  "capabilityName" : "Electronic Content Management",
+  "componentName" : "Communication",
+  "interfaceName" : "CommunicationObjectManager",
+  "operationName" : "handleUpdatedDocumentMetadataEventNotification",
+  "serviceVersions" : [ "1.0", "1.1", "CommunicationObjectManager.handleNewDocumentEventNotification", "CommunicationObjectManager.getDocumentProperties", "CommunicationObjectManager.newDocument", "CommunicationObjectManager.findDocumentTemplates", "CommunicationObjectManager.unlockDocument", "CommunicationObjectManager.updateDocumentMetadata", "CommunicationObjectManager.newFolder" ]
+},{
+  "callCount" : 402440,
+  "dateTimestampStart" : "2017-10-01",
+  "dateTimestampEnd" : "2017-10-31",
+  "consumerIds" : [ "WFLD.MF.PQQTC", "WFLD.MF.PWESD443", "WFLD.MF.PWESD565", "WFLD.MF.PWFCD049", "WFLD.MF.PWFCD443", "WFLD.MF.PWFCD565", "WFLD.MF.WPHR", "WFLD.MF.WRAU", "WFLD.MF.PWMCD443", "WFLD.MF.PWMCD565" ],
+  "serviceName" : "RatingService.rateAuto",
+  "capabilityGroupName" : "Product Management, Underwriting & Processing",
+  "capabilityName" : "Risk Analysis, Underwriting & Pricing",
+  "componentName" : "Risk Rating",
+  "interfaceName" : "RatingService",
+  "operationName" : "rateAuto",
+  "serviceVersions" : [ "1.0" ]
+},{
+  "callCount" : 344070,
+  "dateTimestampStart" : "2017-10-01",
+  "dateTimestampEnd" : "2017-10-31",
+  "consumerIds" : [ "Westfield.UnderwritingManagement.RiskAnalysis.determinePredictionModifier", "Safelite_Credential", "AgencyDownload", "AWP", "National_Safe_Driver_Credential", "Captiva", "ClaimCenterManager", "ACORD" ],
+  "serviceName" : "FinancialServicesAgreement.InsuranceAgreementObjectManager.findInsurancePolicySummary",
+  "capabilityGroupName" : "Risk, Compliance & Financial Management",
+  "capabilityName" : "Financial Management",
+  "componentName" : "FinancialServicesAgreement",
+  "interfaceName" : "InsuranceAgreementObjectManager",
+  "operationName" : "findInsurancePolicySummary",
+  "serviceVersions" : [ "1.0" ]
+},{
+  "callCount" : 143929,
+  "dateTimestampStart" : "2017-10-01",
+  "dateTimestampEnd" : "2017-10-31",
+  "consumerIds" : [ "WFLD.MF.PQQTC", "WFLD.MF.PWESD532", "WFLD.MF.PWESD535", "WFLD.MF.PWFCD532", "WFLD.MF.PWFCD535", "WFLD.MF.WPHR", "WFLD.MF.PWMCD532", "WFLD.MF.PWMCD535" ],
+  "serviceName" : "PolicyAdministration.rate",
+  "capabilityGroupName" : "Product Management, Underwriting & Processing",
+  "capabilityName" : "Risk Analysis, Underwriting & Pricing",
+  "componentName" : "Risk Rating",
+  "interfaceName" : "PolicyAdministration",
+  "operationName" : "rate",
+  "serviceVersions" : [ "1.0" ]
+},{
+  "callCount" : 665710,
+  "dateTimestampStart" : "2017-10-01",
+  "dateTimestampEnd" : "2017-10-31",
+  "consumerIds" : [ "AWP", "Westfield.CiscoIVR", "Westfield.WesCom.PL", "Westfield.Wescom.WOW", "WFLD.MF.PWFCD284", "InContact_Credential", "WFLD.MF.PRPTM705" ],
+  "serviceName" : "AccountAgreementManagement.AccountAgreementInquiry.retrieveAccountList",
+  "capabilityGroupName" : "Sales, Distribution & Service",
+  "capabilityName" : "Customer Management",
+  "componentName" : "AccountAgreementManagement",
+  "interfaceName" : "AccountAgreementInquiry",
+  "operationName" : "retrieveAccountList",
+  "serviceVersions" : [ "1.0", "1.1" ]
+},{
+  "callCount" : 52868,
+  "dateTimestampStart" : "2017-10-01",
+  "dateTimestampEnd" : "2017-10-31",
+  "consumerIds" : [ "Hertz_Credential", "Lynx_Credential", "ProviderAgreementAdministration.Client", "Enterprise_Credential", "ClaimCenter", "ClaimCenterRental" ],
+  "serviceName" : "ProviderAgreementAdministration.handleVehicleRentalAgreementUpdateNotification",
+  "capabilityGroupName" : "Product Management, Underwriting & Processing",
+  "capabilityName" : "Claim Management",
+  "componentName" : "ClaimManagement",
+  "interfaceName" : "ProviderAgreementAdministration",
+  "operationName" : "handleVehicleRentalAgreementUpdateNotification",
+  "serviceVersions" : [ "1.0" ]
+},{
+  "callCount" : 142007,
+  "dateTimestampStart" : "2017-10-01",
+  "dateTimestampEnd" : "2017-10-31",
+  "consumerIds" : [ "ClaimCenter", "ClaimCommunicationService", "ClaimSalvage.Client", "LossEvaluation.Client", "ProviderAgreementAdministration.Client", "ThunderheadSupport.archiveTimer" ],
+  "serviceName" : "ClaimCommunication.establishClaimDocument",
+  "capabilityGroupName" : "Product Management, Underwriting & Processing",
+  "capabilityName" : "Claim Management",
+  "componentName" : "ClaimManagement",
+  "interfaceName" : "ClaimCommunication",
+  "operationName" : "establishClaimDocument",
+  "serviceVersions" : [ "1.0" ]
+},{
+  "callCount" : 852159,
+  "dateTimestampStart" : "2017-10-01",
+  "dateTimestampEnd" : "2017-10-31",
+  "consumerIds" : [ "WFLD.MF.PRPTW888", "Westfield.UnderwritingManagement.RiskAnalysis.determinePredictionModifier", "WFLD.MF.PWFCD284", "Westfield.CiscoIVR", "Westfield.Wescom.WOW", "WFLD.MF.PRPTM705" ],
+  "serviceName" : "BillingAndCollectionManagement.Billing.retrieveCalculatedPaymentInformation",
+  "capabilityGroupName" : "Risk, Compliance & Financial Management",
+  "capabilityName" : "Billing & Payments",
+  "componentName" : "BillingAndCollectionManagement",
+  "interfaceName" : "Billing",
+  "operationName" : "retrieveCalculatedPaymentInformation",
+  "serviceVersions" : [ "2.0", "1.0" ]
+},{
+  "callCount" : 150972,
+  "dateTimestampStart" : "2017-10-01",
+  "dateTimestampEnd" : "2017-10-31",
+  "consumerIds" : [ "WFLD.MF.PQQTC", "WFLD.MF.PWESD383", "WFLD.MF.PWFCD383", "WFLD.MF.PWMCD383", "WFLD.MF.ONLINE.JOB" ],
+  "serviceName" : "Majesco.Commission.commissionAssignment",
+  "capabilityGroupName" : "Sales, Distribution & Service",
+  "capabilityName" : "Distribution Management",
+  "componentName" : "Majesco",
+  "interfaceName" : "Commission",
+  "operationName" : "commissionAssignment",
+  "serviceVersions" : [ "1.0" ]
+},{
+  "callCount" : 383987,
+  "dateTimestampStart" : "2017-10-01",
+  "dateTimestampEnd" : "2017-10-31",
+  "consumerIds" : [ "SeverityRating", "Majesco.Client", "Party.PartyActivityConditionPlaceManager", "PolicyAdministration", "ActivityConditionPlaceManager.ServiceClient" ],
+  "serviceName" : "ActivityConditionPlaceManager.retrieveStandardizedAddress",
+  "capabilityGroupName" : "Product Management, Underwriting & Processing",
+  "capabilityName" : "Risk Analysis, Underwriting & Pricing",
+  "componentName" : "ActivityConditionPlace",
+  "interfaceName" : "ActivityConditionPlaceManager",
+  "operationName" : "retrieveStandardizedAddress",
+  "serviceVersions" : [ "1.0" ]
+},{
+  "callCount" : 219793,
+  "dateTimestampStart" : "2017-10-01",
+  "dateTimestampEnd" : "2017-10-31",
+  "consumerIds" : [ "FileNet", "Westfield.UnderwritingManagement.RiskAnalysis.determinePredictionModifier", "ClaimCommunicationService", "IBM_Watson_Credential" ],
+  "serviceName" : "ClaimInquiry.retrieveClaimDetails",
+  "capabilityGroupName" : "Product Management, Underwriting & Processing",
+  "capabilityName" : "Claim Management",
+  "componentName" : "ClaimManagement",
+  "interfaceName" : "ClaimInquiry",
+  "operationName" : "retrieveClaimDetails",
+  "serviceVersions" : [ "2.0", "1.0" ]
+},{
+  "callCount" : 122688,
+  "dateTimestampStart" : "2017-10-01",
+  "dateTimestampEnd" : "2017-10-31",
+  "consumerIds" : [ "communication.object.manager", "Westfield.Payments", "ClaimManagement.War_ClaimHandling", "PolicyManagement.PolicyStatusChange" ],
+  "serviceName" : "ClaimHandling.handleCheckPrintClaimEventNotification",
+  "capabilityGroupName" : "Product Management, Underwriting & Processing",
+  "capabilityName" : "Claim Management",
+  "componentName" : "ClaimManagement",
+  "interfaceName" : "ClaimHandling",
+  "operationName" : "handleCheckPrintClaimEventNotification",
+  "serviceVersions" : [ "1.0" ]
+},{
+  "callCount" : 43539,
+  "dateTimestampStart" : "2017-10-01",
+  "dateTimestampEnd" : "2017-10-31",
+  "consumerIds" : [ "Safelite_Credential", "National_Safe_Driver_Credential", "Westfield.UnderwritingManagement.RiskAnalysis.determinePredictionModifier", "IBM_Watson_Credential" ],
+  "serviceName" : "PolicyInquiry.retrievePolicyDetailsForVendor",
+  "capabilityGroupName" : "Product Management, Underwriting & Processing",
+  "capabilityName" : "Policy Processing & Servicing",
+  "componentName" : "PolicyManagement",
+  "interfaceName" : "PolicyInquiry",
+  "operationName" : "retrievePolicyDetailsForVendor",
+  "serviceVersions" : [ "2.0", "1.0" ]
+},{
+  "callCount" : 71205,
+  "dateTimestampStart" : "2017-10-01",
+  "dateTimestampEnd" : "2017-10-31",
+  "consumerIds" : [ "LossEvaluation.Client", "Mitchell_Credential", "ClaimCenter", "XactAnalysis_Credential" ],
+  "serviceName" : "LossEvaluation.recordVehicleDamageEstimateNotification",
+  "capabilityGroupName" : "Product Management, Underwriting & Processing",
+  "capabilityName" : "Claim Management",
+  "componentName" : "ClaimManagement",
+  "interfaceName" : "LossEvaluation",
+  "operationName" : "recordVehicleDamageEstimateNotification",
+  "serviceVersions" : [ "1.0" ]
+},{
+  "callCount" : 86922,
+  "dateTimestampStart" : "2017-10-01",
+  "dateTimestampEnd" : "2017-10-31",
+  "consumerIds" : [ "CommercialSurety.Gateway", "Westfield.ClaimInquiry.Service", "Westfield.FinancialTransactionManager.Service" ],
+  "serviceName" : "FinancialTransaction.FinancialTransactionManager.generateBillingAccountNumber",
+  "capabilityGroupName" : "Risk, Compliance & Financial Management",
+  "capabilityName" : "Billing & Payments",
+  "componentName" : "FinancialTransaction",
+  "interfaceName" : "FinancialTransactionManager",
+  "operationName" : "generateBillingAccountNumber",
+  "serviceVersions" : [ "1.0" ]
+},{
+  "callCount" : 23371,
+  "dateTimestampStart" : "2017-10-01",
+  "dateTimestampEnd" : "2017-10-31",
+  "consumerIds" : [ "WFLD.MF.PQQTC", "Westfield.53.PL", "WFLD.MF.PWESD380" ],
+  "serviceName" : "genericPolicyEventNotification",
+  "capabilityGroupName" : "Product Management, Underwriting & Processing",
+  "capabilityName" : "Policy Processing & Servicing",
+  "componentName" : "PolicyManagement",
+  "interfaceName" : "PolicyManagement",
+  "operationName" : "genericPolicyEventNotification",
+  "serviceVersions" : [ "1.0" ]
+},{
+  "callCount" : 23475,
+  "dateTimestampStart" : "2017-10-01",
+  "dateTimestampEnd" : "2017-10-31",
+  "consumerIds" : [ "Copart_Credential", "MFTCopart", "ClaimCenter" ],
+  "serviceName" : "ClaimSalvage.handleVehicleSalvageEventNotification",
+  "capabilityGroupName" : "Product Management, Underwriting & Processing",
+  "capabilityName" : "Claim Management",
+  "componentName" : "ClaimManagement",
+  "interfaceName" : "ClaimSalvage",
+  "operationName" : "handleVehicleSalvageEventNotification",
+  "serviceVersions" : [ "1.0" ]
+},{
+  "callCount" : 659,
+  "dateTimestampStart" : "2017-10-01",
+  "dateTimestampEnd" : "2017-10-31",
+  "consumerIds" : [ "Safelite_Credential", "Captiva", "MFTSafelite" ],
+  "serviceName" : "ClaimManagement.LossNotification.recordClaimDetails",
+  "capabilityGroupName" : "Product Management, Underwriting & Processing",
+  "capabilityName" : "Claim Management",
+  "componentName" : "ClaimManagement",
+  "interfaceName" : "LossNotification",
+  "operationName" : "recordClaimDetails",
+  "serviceVersions" : [ "1.0" ]
+},{
+  "callCount" : 114452,
+  "dateTimestampStart" : "2017-10-01",
+  "dateTimestampEnd" : "2017-10-31",
+  "consumerIds" : [ "AgencyDownload", "Westfield.Wescom.WOW" ],
+  "serviceName" : "BillingAndCollectionManagement.AccountAgreementStatementManagement.retrieveStatementsForAccountAgreements",
+  "capabilityGroupName" : "Risk, Compliance & Financial Management",
+  "capabilityName" : "Billing & Payments",
+  "componentName" : "BillingAndCollectionManagement",
+  "interfaceName" : "AccountAgreementStatementManagement",
+  "operationName" : "retrieveStatementsForAccountAgreements",
+  "serviceVersions" : [ "1.0" ]
+},{
+  "callCount" : 111617,
+  "dateTimestampStart" : "2017-10-01",
+  "dateTimestampEnd" : "2017-10-31",
+  "consumerIds" : [ "Westfield.ClaimHandling.Service", "Westfield.ClaimInquiry.Service" ],
+  "serviceName" : "Claim.ClaimObjectManager.modifyUnderlyingAgreementStatus",
+  "capabilityGroupName" : "Product Management, Underwriting & Processing",
+  "capabilityName" : "Claim Management",
+  "componentName" : "Claim",
+  "interfaceName" : "ClaimObjectManager",
+  "operationName" : "modifyUnderlyingAgreementStatus",
+  "serviceVersions" : [ "1.0" ]
+},{
+  "callCount" : 21886,
+  "dateTimestampStart" : "2017-10-01",
+  "dateTimestampEnd" : "2017-10-31",
+  "consumerIds" : [ "ContactManager", "ClaimCenter" ],
+  "serviceName" : "PartyManager.determineWatchListInclusion",
+  "capabilityGroupName" : "Product Management, Underwriting & Processing",
+  "capabilityName" : "Risk Analysis, Underwriting & Pricing",
+  "componentName" : "Risk Rating",
+  "interfaceName" : "PartyManager",
+  "operationName" : "determineWatchListInclusion",
+  "serviceVersions" : [ "1.0" ]
+},{
+  "callCount" : 247455,
+  "dateTimestampStart" : "2017-10-01",
+  "dateTimestampEnd" : "2017-10-31",
+  "consumerIds" : [ "ClaimCenter", "1.0" ],
+  "serviceName" : "CommunicationManager.deleteTemplatedDraftDocument",
+  "capabilityGroupName" : "Enterprise",
+  "capabilityName" : "Electronic Content Management",
+  "componentName" : "Communication",
+  "interfaceName" : "CommunicationManager",
+  "operationName" : "deleteTemplatedDraftDocument",
+  "serviceVersions" : [ "1.0", "CommunicationManager.generateDocumentFromTemplatedDraft" ]
+},{
+  "callCount" : 30,
+  "dateTimestampStart" : "2017-10-02",
+  "dateTimestampEnd" : "2017-10-30",
+  "consumerIds" : [ "WCReferral" ],
+  "serviceName" : "WCReferral.CorvelService.initiateWCReferral",
+  "capabilityGroupName" : "Product Management, Underwriting & Processing",
+  "capabilityName" : "Claim Management",
+  "componentName" : "WCReferral",
+  "interfaceName" : "CorvelService",
+  "operationName" : "initiateWCReferral",
+  "serviceVersions" : [ "1.0" ]
+},{
+  "callCount" : 54083,
+  "dateTimestampStart" : "2017-10-01",
+  "dateTimestampEnd" : "2017-10-31",
+  "consumerIds" : [ "CommunicationManager" ],
+  "serviceName" : "Transformation.claimsXform",
+  "capabilityGroupName" : "Enterprise",
+  "capabilityName" : "Transformation Services",
+  "componentName" : "Mediation",
+  "interfaceName" : "Transformation",
+  "operationName" : "claimsXform",
+  "serviceVersions" : [ "1.0" ]
+},{
+  "callCount" : 20,
+  "dateTimestampStart" : "2017-10-05",
+  "dateTimestampEnd" : "2017-10-31",
+  "consumerIds" : [ "WCReferral" ],
+  "serviceName" : "WCReferral.GenexService.initiateWCReferral",
+  "capabilityGroupName" : "Product Management, Underwriting & Processing",
+  "capabilityName" : "Claim Management",
+  "componentName" : "WCReferral",
+  "interfaceName" : "GenexService",
+  "operationName" : "initiateWCReferral",
+  "serviceVersions" : [ "1.0" ]
+},{
+  "callCount" : 183953,
+  "dateTimestampStart" : "2017-10-01",
+  "dateTimestampEnd" : "2017-10-31",
+  "consumerIds" : [ "Westfield.UnderwritingManagement.RiskAnalysis.determinePredictionModifier" ],
+  "serviceName" : "Underwriting.UnderwritingManager.activateScoreById",
+  "capabilityGroupName" : "Product Management, Underwriting & Processing",
+  "capabilityName" : "Risk Analysis, Underwriting & Pricing",
+  "componentName" : "Underwriting",
+  "interfaceName" : "UnderwritingManager",
+  "operationName" : "activateScoreById",
+  "serviceVersions" : [ "1.0", "1.1" ]
+},{
+  "callCount" : 2118,
+  "dateTimestampStart" : "2017-10-01",
+  "dateTimestampEnd" : "2017-10-31",
+  "consumerIds" : [ "ClaimCenter" ],
+  "serviceName" : "SeverityRating.calculateClaimSeverity",
+  "capabilityGroupName" : "Product Management, Underwriting & Processing",
+  "capabilityName" : "Claim Management",
+  "componentName" : "ClaimManagement",
+  "interfaceName" : "SeverityRating",
+  "operationName" : "calculateClaimSeverity",
+  "serviceVersions" : [ "1.0" ]
+},{
+  "callCount" : 30,
+  "dateTimestampStart" : "2017-10-02",
+  "dateTimestampEnd" : "2017-10-30",
+  "consumerIds" : [ "ClaimCenter" ],
+  "serviceName" : "WCReferral.Corvel.initiateWCReferral",
+  "capabilityGroupName" : "Product Management, Underwriting & Processing",
+  "capabilityName" : "Claim Management",
+  "componentName" : "WCReferral",
+  "interfaceName" : "Corvel",
+  "operationName" : "initiateWCReferral",
+  "serviceVersions" : [ "1.0" ]
+},{
+  "callCount" : 33999,
+  "dateTimestampStart" : "2017-10-01",
+  "dateTimestampEnd" : "2017-10-31",
+  "consumerIds" : [ "ClaimCenter" ],
+  "serviceName" : "PartyNotification.notify1099TaxServiceProvider",
+  "capabilityGroupName" : "Risk, Compliance & Financial Management",
+  "capabilityName" : "Billing & Payments",
+  "componentName" : "PaymentManagement",
+  "interfaceName" : "PartyNotification",
+  "operationName" : "notify1099TaxServiceProvider",
+  "serviceVersions" : [ "1.0" ]
+},{
+  "callCount" : 2033,
+  "dateTimestampStart" : "2017-10-01",
+  "dateTimestampEnd" : "2017-10-31",
+  "consumerIds" : [ "ContactManager" ],
+  "serviceName" : "ProviderInformationManagement.recordProviderDetails",
+  "capabilityGroupName" : "Product Management, Underwriting & Processing",
+  "capabilityName" : "Claim Management",
+  "componentName" : "ClaimManagement",
+  "interfaceName" : "ProviderInformationManagement",
+  "operationName" : "recordProviderDetails",
+  "serviceVersions" : [ "1.0" ]
+},{
+  "callCount" : 16,
+  "dateTimestampStart" : "2017-10-03",
+  "dateTimestampEnd" : "2017-10-25",
+  "consumerIds" : [ "WCReferral" ],
+  "serviceName" : "WCReferral.AllegiantService.initiateWCReferral",
+  "capabilityGroupName" : "Product Management, Underwriting & Processing",
+  "capabilityName" : "Claim Management",
+  "componentName" : "WCReferral",
+  "interfaceName" : "AllegiantService",
+  "operationName" : "initiateWCReferral",
+  "serviceVersions" : [ "1.0" ]
+},{
+  "callCount" : 269372,
+  "dateTimestampStart" : "2017-10-01",
+  "dateTimestampEnd" : "2017-10-31",
+  "consumerIds" : [ "RatingManager" ],
+  "serviceName" : "RatabaseService.GetRate",
+  "capabilityGroupName" : "Product Management, Underwriting & Processing",
+  "capabilityName" : "Risk Analysis, Underwriting & Pricing",
+  "componentName" : "Risk Rating",
+  "interfaceName" : "RatabaseService",
+  "operationName" : "GetRate",
+  "serviceVersions" : [ "1.0" ]
+},{
+  "callCount" : 5,
+  "dateTimestampStart" : "2017-10-02",
+  "dateTimestampEnd" : "2017-10-24",
+  "consumerIds" : [ "ClaimCenter" ],
+  "serviceName" : "WCReferral.ReEmployability.initiateWCReferral",
+  "capabilityGroupName" : "Product Management, Underwriting & Processing",
+  "capabilityName" : "Claim Management",
+  "componentName" : "WCReferral",
+  "interfaceName" : "ReEmployability",
+  "operationName" : "initiateWCReferral",
+  "serviceVersions" : [ "1.0" ]
+},{
+  "callCount" : 112,
+  "dateTimestampStart" : "2017-10-02",
+  "dateTimestampEnd" : "2017-10-31",
+  "consumerIds" : [ "Westfield.Wescom.WOW" ],
+  "serviceName" : "FinancialServicesAgreement.AccountAgreementManager.establishElectronicFundsTransfer",
+  "capabilityGroupName" : "Risk, Compliance & Financial Management",
+  "capabilityName" : "Financial Management",
+  "componentName" : "FinancialServicesAgreement",
+  "interfaceName" : "AccountAgreementManager",
+  "operationName" : "establishElectronicFundsTransfer",
+  "serviceVersions" : [ "1.0" ]
+},{
+  "callCount" : 20,
+  "dateTimestampStart" : "2017-10-03",
+  "dateTimestampEnd" : "2017-10-27",
+  "consumerIds" : [ "ClaimCenter" ],
+  "serviceName" : "WCReferral.BestDoctors.initiateWCReferral",
+  "capabilityGroupName" : "Product Management, Underwriting & Processing",
+  "capabilityName" : "Claim Management",
+  "componentName" : "WCReferral",
+  "interfaceName" : "BestDoctors",
+  "operationName" : "initiateWCReferral",
+  "serviceVersions" : [ "1.0" ]
+},{
+  "callCount" : 565852,
+  "dateTimestampStart" : "2017-10-01",
+  "dateTimestampEnd" : "2017-10-31",
+  "consumerIds" : [ "ActivityConditionPlaceObjectManager.ServiceClient" ],
+  "serviceName" : "ActivityConditionPlaceObjectManager.findGeographicalArea",
+  "capabilityGroupName" : "Product Management, Underwriting & Processing",
+  "capabilityName" : "Risk Analysis, Underwriting & Pricing",
+  "componentName" : "ActivityConditionPlace",
+  "interfaceName" : "ActivityConditionPlaceObjectManager",
+  "operationName" : "findGeographicalArea",
+  "serviceVersions" : [ "1.0" ]
+},{
+  "callCount" : 58460,
+  "dateTimestampStart" : "2017-10-01",
+  "dateTimestampEnd" : "2017-10-31",
+  "consumerIds" : [ "Westfield.Wescom.WOW" ],
+  "serviceName" : "PaymentManagement.PaymentManagement.recordPaymentReceived",
+  "capabilityGroupName" : "Risk, Compliance & Financial Management",
+  "capabilityName" : "Billing & Payments",
+  "componentName" : "PaymentManagement",
+  "interfaceName" : "PaymentManagement",
+  "operationName" : "recordPaymentReceived",
+  "serviceVersions" : [ "1.0" ]
+},{
+  "callCount" : 5415,
+  "dateTimestampStart" : "2017-10-07",
+  "dateTimestampEnd" : "2017-10-28",
+  "consumerIds" : [ "WFLD.MF.PWESW463" ],
+  "serviceName" : "FinancialServicesAgreement.PremiumAuditObjectManager.uploadPolicies",
+  "capabilityGroupName" : "Risk, Compliance & Financial Management",
+  "capabilityName" : "Financial Management",
+  "componentName" : "FinancialServicesAgreement",
+  "interfaceName" : "PremiumAuditObjectManager",
+  "operationName" : "uploadPolicies",
+  "serviceVersions" : [ "1.0" ]
+},{
+  "callCount" : 52,
+  "dateTimestampStart" : "2017-10-02",
+  "dateTimestampEnd" : "2017-10-31",
+  "consumerIds" : [ "WCReferral" ],
+  "serviceName" : "WCReferral.AlarisService.initiateWCReferral",
+  "capabilityGroupName" : "Product Management, Underwriting & Processing",
+  "capabilityName" : "Claim Management",
+  "componentName" : "WCReferral",
+  "interfaceName" : "AlarisService",
+  "operationName" : "initiateWCReferral",
+  "serviceVersions" : [ "1.0" ]
+},{
+  "callCount" : 169195,
+  "dateTimestampStart" : "2017-10-01",
+  "dateTimestampEnd" : "2017-10-31",
+  "consumerIds" : [ "FileNet" ],
+  "serviceName" : "ClaimCenter.ClaimsInquiryWebService.recentClaimsForUser",
+  "capabilityGroupName" : "Product Management, Underwriting & Processing",
+  "capabilityName" : "Claim Management",
+  "componentName" : "ClaimCenter",
+  "interfaceName" : "ClaimsInquiryWebService",
+  "operationName" : "recentClaimsForUser",
+  "serviceVersions" : [ "1.0" ]
+},{
+  "callCount" : 33034,
+  "dateTimestampStart" : "2017-10-02",
+  "dateTimestampEnd" : "2017-10-31",
+  "consumerIds" : [ "Westfield.UnderwritingManagement.RiskAnalysis.determinePredictionModifier" ],
+  "serviceName" : "FinancialServicesAgreement.FinancialServicesAgreementObjectManager.findFinancialServicesAgreementComponents",
+  "capabilityGroupName" : "Risk, Compliance & Financial Management",
+  "capabilityName" : "Financial Management",
+  "componentName" : "FinancialServicesAgreement",
+  "interfaceName" : "FinancialServicesAgreementObjectManager",
+  "operationName" : "findFinancialServicesAgreementComponents",
+  "serviceVersions" : [ "1.0" ]
+},{
+  "callCount" : 52,
+  "dateTimestampStart" : "2017-10-02",
+  "dateTimestampEnd" : "2017-10-31",
+  "consumerIds" : [ "ClaimCenter" ],
+  "serviceName" : "WCReferral.Alaris.initiateWCReferral",
+  "capabilityGroupName" : "Product Management, Underwriting & Processing",
+  "capabilityName" : "Claim Management",
+  "componentName" : "WCReferral",
+  "interfaceName" : "Alaris",
+  "operationName" : "initiateWCReferral",
+  "serviceVersions" : [ "1.0" ]
+},{
+  "callCount" : 17973,
+  "dateTimestampStart" : "2017-10-01",
+  "dateTimestampEnd" : "2017-10-31",
+  "consumerIds" : [ "PolicyStatusChange.War_PolicyStatusChange" ],
+  "serviceName" : "PolicyManagement.PolicyStatusChange.activateInsurancePolicy",
+  "capabilityGroupName" : "Product Management, Underwriting & Processing",
+  "capabilityName" : "Policy Processing & Servicing",
+  "componentName" : "PolicyManagement",
+  "interfaceName" : "PolicyStatusChange",
+  "operationName" : "activateInsurancePolicy",
+  "serviceVersions" : [ "1.0" ]
+},{
+  "callCount" : 14906,
+  "dateTimestampStart" : "2017-10-01",
+  "dateTimestampEnd" : "2017-10-31",
+  "consumerIds" : [ "ClaimCenter" ],
+  "serviceName" : "PolicyCommunication.findPolicyDocuments",
+  "capabilityGroupName" : "Enterprise",
+  "capabilityName" : "Electronic Content Management",
+  "componentName" : "Communication",
+  "interfaceName" : "PolicyCommunication",
+  "operationName" : "findPolicyDocuments",
+  "serviceVersions" : [ "2.0" ]
+},{
+  "callCount" : 156453,
+  "dateTimestampStart" : "2017-10-01",
+  "dateTimestampEnd" : "2017-10-31",
+  "consumerIds" : [ "Westfield.UnderwritingManagement.RiskAnalysis.determinePredictionModifier" ],
+  "serviceName" : "Claim.ClaimManager.retrievePriorCarrierClaimSummary",
+  "capabilityGroupName" : "Product Management, Underwriting & Processing",
+  "capabilityName" : "Claim Management",
+  "componentName" : "Claim",
+  "interfaceName" : "ClaimManager",
+  "operationName" : "retrievePriorCarrierClaimSummary",
+  "serviceVersions" : [ "1.0" ]
+},{
+  "callCount" : 16,
+  "dateTimestampStart" : "2017-10-03",
+  "dateTimestampEnd" : "2017-10-25",
+  "consumerIds" : [ "ClaimCenter" ],
+  "serviceName" : "WCReferral.Allegiant.initiateWCReferral",
+  "capabilityGroupName" : "Product Management, Underwriting & Processing",
+  "capabilityName" : "Claim Management",
+  "componentName" : "WCReferral",
+  "interfaceName" : "Allegiant",
+  "operationName" : "initiateWCReferral",
+  "serviceVersions" : [ "1.0" ]
+},{
+  "callCount" : 60404,
+  "dateTimestampStart" : "2017-10-01",
+  "dateTimestampEnd" : "2017-10-31",
+  "consumerIds" : [ "ClaimCenter" ],
+  "serviceName" : "PaymentProcessing.establishOutgoingPayment",
+  "capabilityGroupName" : "Risk, Compliance & Financial Management",
+  "capabilityName" : "Billing & Payments",
+  "componentName" : "PaymentManagement",
+  "interfaceName" : "PaymentProcessing",
+  "operationName" : "establishOutgoingPayment",
+  "serviceVersions" : [ "1.0" ]
+},{
+  "callCount" : 20,
+  "dateTimestampStart" : "2017-10-05",
+  "dateTimestampEnd" : "2017-10-31",
+  "consumerIds" : [ "ClaimCenter" ],
+  "serviceName" : "WCReferral.Genex.initiateWCReferral",
+  "capabilityGroupName" : "Product Management, Underwriting & Processing",
+  "capabilityName" : "Claim Management",
+  "componentName" : "WCReferral",
+  "interfaceName" : "Genex",
+  "operationName" : "initiateWCReferral",
+  "serviceVersions" : [ "1.0" ]
+},] }"WFLD.MF.PWESD705",
+				"WFLD.MF.PWFCD350",
+				"WFLD.MF.PWMCD350",
+				"WFLD.MF.PIPT"
+			],
+			"serviceName": "Party.PartyActivityConditionPlaceManager.generatePersonalCreditScoreAssessment",
+			"capabilityGroupName": "Product Management, Underwriting & Processing",
+			"capabilityName": "Risk Analysis, Underwriting & Pricing",
+			"componentName": "Party",
+			"interfaceName": "PartyActivityConditionPlaceManager",
+			"operationName": "generatePersonalCreditScoreAssessment",
+			"serviceVersions": [
+				"1.0"
+			]
+		},
+		{
+			"callCount": 659,
+			"dateTimestampStart": "2017-10-01",
+			"dateTimestampEnd": "2017-10-31",
+			"consumerIds": [
+				"Safelite_Credential",
+				"MFTSafelite",
+				"Captiva"
+			],
+			"serviceName": "ClaimManagement.LossNotification.recordClaimDetails",
+			"capabilityGroupName": "Product Management, Underwriting & Processing",
+			"capabilityName": "Claim Management",
+			"componentName": "ClaimManagement",
+			"interfaceName": "LossNotification",
+			"operationName": "recordClaimDetails",
+			"serviceVersions": [
+				"1.0"
+			]
+		},
+		{
+			"callCount": 20,
+			"dateTimestampStart": "2017-10-05",
+			"dateTimestampEnd": "2017-10-31",
+			"consumerIds": [
+				"ClaimCenter"
+			],
+			"serviceName": "WCReferral.Genex.initiateWCReferral",
+			"capabilityGroupName": "Product Management, Underwriting & Processing",
+			"capabilityName": "Claim Management",
+			"componentName": "WCReferral",
+			"interfaceName": "Genex",
+			"operationName": "initiateWCReferral",
+			"serviceVersions": [
+				"1.0"
+			]
+		},
+		{
+			"callCount": 993582,
+			"dateTimestampStart": "2017-10-01",
+			"dateTimestampEnd": "2017-10-31",
+			"consumerIds": [
+				"Unknown",
+				"Westfield.AccountInventory.PreQuote",
+				"Westfield.WesCom.PL",
+				"WFLD.MF.EIGC",
+				"WFLD.MF.EUGC",
+				"WFLD.MF.ONLINE.JOB",
+				"WFLD.MF.PIGC",
+				"WFLD.MF.PQQTC",
+				"WFLD.MF.PRPTW030",
+				"WFLD.MF.PWESD140",
+				"WFLD.MF.PWESW132",
+				"WFLD.MF.WPHR",
+				"WFLD.MF.WPRT",
+				"WFLD.MF.PRPTD933",
+				"WFLD.MF.PUGC",
+				"WFLD.MF.PUHI",
+				"WFLD.MF.PWESD298",
+				"WFLD.MF.PWESD353",
+				"WFLD.MF.PWESD424",
+				"WFLD.MF.PWFCD046",
+				"WFLD.MF.PWFCD284",
+				"WFLD.MF.PWFCD298",
+				"WFLD.MF.PWFCD353",
+				"WFLD.MF.PWFCD424",
+				"WFLD.MF.PUDR",
+				"WFLD.MF.PWESO353",
+				"WFLD.MF.PILS",
+				"WFLD.MF.PWMCD298",
+				"WFLD.MF.PWMCD353",
+				"WFLD.MF.PWMCD424",
+				"Westfield.UnderwritingManagement.RiskAnalysis.determinePredictionModifier",
+				"WFLD.MF.PRPTW130",
+				"WESTFIELD.MAINFRAME.T124"
+			],
+			"serviceName": "UnderwritingManagement.RiskAnalysis.activateScore",
+			"capabilityGroupName": "Product Management, Underwriting & Processing",
+			"capabilityName": "Risk Analysis, Underwriting & Pricing",
+			"componentName": "UnderwritingManagement",
+			"interfaceName": "RiskAnalysis",
+			"operationName": "activateScore",
+			"serviceVersions": [
+				"1.0",
+				"1.1"
+			]
+		},
+		{
+			"callCount": 247455,
+			"dateTimestampStart": "2017-10-01",
+			"dateTimestampEnd": "2017-10-31",
+			"consumerIds": [
+				"ClaimCenter",
+				"1.0"
+			],
+			"serviceName": "CommunicationManager.deleteTemplatedDraftDocument",
+			"capabilityGroupName": "Enterprise",
+			"capabilityName": "Electronic Content Management",
+			"componentName": "Communication",
+			"interfaceName": "CommunicationManager",
+			"operationName": "deleteTemplatedDraftDocument",
+			"serviceVersions": [
+				"1.0",
+				"CommunicationManager.generateDocumentFromTemplatedDraft"
+			]
+		},
+		{
+			"callCount": 16,
+			"dateTimestampStart": "2017-10-03",
+			"dateTimestampEnd": "2017-10-25",
+			"consumerIds": [
+				"WCReferral"
+			],
+			"serviceName": "WCReferral.AllegiantService.initiateWCReferral",
+			"capabilityGroupName": "Product Management, Underwriting & Processing",
+			"capabilityName": "Claim Management",
+			"componentName": "WCReferral",
+			"interfaceName": "AllegiantService",
+			"operationName": "initiateWCReferral",
+			"serviceVersions": [
+				"1.0"
+			]
+		},
+		{
+			"callCount": 2033,
+			"dateTimestampStart": "2017-10-01",
+			"dateTimestampEnd": "2017-10-31",
+			"consumerIds": [
+				"ContactManager"
+			],
+			"serviceName": "ProviderInformationManagement.recordProviderDetails",
+			"capabilityGroupName": "Product Management, Underwriting & Processing",
+			"capabilityName": "Claim Management",
+			"componentName": "ClaimManagement",
+			"interfaceName": "ProviderInformationManagement",
+			"operationName": "recordProviderDetails",
+			"serviceVersions": [
+				"1.0"
+			]
+		},
+		{
+			"callCount": 269372,
+			"dateTimestampStart": "2017-10-01",
+			"dateTimestampEnd": "2017-10-31",
+			"consumerIds": [
+				"RatingManager"
+			],
+			"serviceName": "RatabaseService.GetRate",
+			"capabilityGroupName": "Product Management, Underwriting & Processing",
+			"capabilityName": "Risk Analysis, Underwriting & Pricing",
+			"componentName": "Risk Rating",
+			"interfaceName": "RatabaseService",
+			"operationName": "GetRate",
+			"serviceVersions": [
+				"1.0"
+			]
+		},
+		{
+			"callCount": 5,
+			"dateTimestampStart": "2017-10-02",
+			"dateTimestampEnd": "2017-10-24",
+			"consumerIds": [
+				"ClaimCenter"
+			],
+			"serviceName": "WCReferral.ReEmployability.initiateWCReferral",
+			"capabilityGroupName": "Product Management, Underwriting & Processing",
+			"capabilityName": "Claim Management",
+			"componentName": "WCReferral",
+			"interfaceName": "ReEmployability",
+			"operationName": "initiateWCReferral",
+			"serviceVersions": [
+				"1.0"
+			]
+		},
+		{
+			"callCount": 112,
+			"dateTimestampStart": "2017-10-02",
+			"dateTimestampEnd": "2017-10-31",
+			"consumerIds": [
+				"Westfield.Wescom.WOW"
+			],
+			"serviceName": "FinancialServicesAgreement.AccountAgreementManager.establishElectronicFundsTransfer",
+			"capabilityGroupName": "Risk, Compliance & Financial Management",
+			"capabilityName": "Financial Management",
+			"componentName": "FinancialServicesAgreement",
+			"interfaceName": "AccountAgreementManager",
+			"operationName": "establishElectronicFundsTransfer",
+			"serviceVersions": [
+				"1.0"
+			]
+		},
+		{
+			"callCount": 20,
+			"dateTimestampStart": "2017-10-03",
+			"dateTimestampEnd": "2017-10-27",
+			"consumerIds": [
+				"ClaimCenter"
+			],
+			"serviceName": "WCReferral.BestDoctors.initiateWCReferral",
+			"capabilityGroupName": "Product Management, Underwriting & Processing",
+			"capabilityName": "Claim Management",
+			"componentName": "WCReferral",
+			"interfaceName": "BestDoctors",
+			"operationName": "initiateWCReferral",
+			"serviceVersions": [
+				"1.0"
+			]
+		},
+		{
+			"callCount": 827540,
+			"dateTimestampStart": "2017-10-01",
+			"dateTimestampEnd": "2017-10-31",
+			"consumerIds": [
+				"AgencyMapping.Client",
+				"Agency",
+				"WFLD.MF.EIBI",
+				"WFLD.MF.FSIS",
+				"WFLD.MF.PIBI",
+				"WFLD.MF.PIHS",
+				"WFLD.MF.PILS",
+				"PolicyInquiry.Client",
+				"AWP",
+				"ClaimCenterManager.Client",
+				"WFLD.MF.PAISA033",
+				"WFLD.MF.PULS",
+				"WFLD.MF.PRPTQ851",
+				"WFLD.MF.PBCMM338"
+			],
+			"serviceName": "Agency.retrieveAgencyDetails",
+			"capabilityGroupName": "Sales, Distribution & Service",
+			"capabilityName": "Distribution Management",
+			"componentName": "Agency",
+			"interfaceName": "Agency",
+			"operationName": "retrieveAgencyDetails",
+			"serviceVersions": [
+				"1.0"
+			]
+		},
+		{
+			"callCount": 383987,
+			"dateTimestampStart": "2017-10-01",
+			"dateTimestampEnd": "2017-10-31",
+			"consumerIds": [
+				"SeverityRating",
+				"Majesco.Client",
+				"Party.PartyActivityConditionPlaceManager",
+				"PolicyAdministration",
+				"ActivityConditionPlaceManager.ServiceClient"
+			],
+			"serviceName": "ActivityConditionPlaceManager.retrieveStandardizedAddress",
+			"capabilityGroupName": "Product Management, Underwriting & Processing",
+			"capabilityName": "Risk Analysis, Underwriting & Pricing",
+			"componentName": "ActivityConditionPlace",
+			"interfaceName": "ActivityConditionPlaceManager",
+			"operationName": "retrieveStandardizedAddress",
+			"serviceVersions": [
+				"1.0"
+			]
+		},
+		{
+			"callCount": 565852,
+			"dateTimestampStart": "2017-10-01",
+			"dateTimestampEnd": "2017-10-31",
+			"consumerIds": [
+				"ActivityConditionPlaceObjectManager.ServiceClient"
+			],
+			"serviceName": "ActivityConditionPlaceObjectManager.findGeographicalArea",
+			"capabilityGroupName": "Product Management, Underwriting & Processing",
+			"capabilityName": "Risk Analysis, Underwriting & Pricing",
+			"componentName": "ActivityConditionPlace",
+			"interfaceName": "ActivityConditionPlaceObjectManager",
+			"operationName": "findGeographicalArea",
+			"serviceVersions": [
+				"1.0"
+			]
+		},
+		{
+			"callCount": 344070,
+			"dateTimestampStart": "2017-10-01",
+			"dateTimestampEnd": "2017-10-31",
+			"consumerIds": [
+				"Westfield.UnderwritingManagement.RiskAnalysis.determinePredictionModifier",
+				"AgencyDownload",
+				"Safelite_Credential",
+				"National_Safe_Driver_Credential",
+				"AWP",
+				"Captiva",
+				"ClaimCenterManager",
+				"ACORD"
+			],
+			"serviceName": "FinancialServicesAgreement.InsuranceAgreementObjectManager.findInsurancePolicySummary",
+			"capabilityGroupName": "Risk, Compliance & Financial Management",
+			"capabilityName": "Financial Management",
+			"componentName": "FinancialServicesAgreement",
+			"interfaceName": "InsuranceAgreementObjectManager",
+			"operationName": "findInsurancePolicySummary",
+			"serviceVersions": [
+				"1.0"
+			]
+		},
+		{
+			"callCount": 58460,
+			"dateTimestampStart": "2017-10-01",
+			"dateTimestampEnd": "2017-10-31",
+			"consumerIds": [
+				"Westfield.Wescom.WOW"
+			],
+			"serviceName": "PaymentManagement.PaymentManagement.recordPaymentReceived",
+			"capabilityGroupName": "Risk, Compliance & Financial Management",
+			"capabilityName": "Billing & Payments",
+			"componentName": "PaymentManagement",
+			"interfaceName": "PaymentManagement",
+			"operationName": "recordPaymentReceived",
+			"serviceVersions": [
+				"1.0"
+			]
+		},
+		{
+			"callCount": 5415,
+			"dateTimestampStart": "2017-10-07",
+			"dateTimestampEnd": "2017-10-28",
+			"consumerIds": [
+				"WFLD.MF.PWESW463"
+			],
+			"serviceName": "FinancialServicesAgreement.PremiumAuditObjectManager.uploadPolicies",
+			"capabilityGroupName": "Risk, Compliance & Financial Management",
+			"capabilityName": "Financial Management",
+			"componentName": "FinancialServicesAgreement",
+			"interfaceName": "PremiumAuditObjectManager",
+			"operationName": "uploadPolicies",
+			"serviceVersions": [
+				"1.0"
+			]
+		},
+		{
+			"callCount": 52,
+			"dateTimestampStart": "2017-10-02",
+			"dateTimestampEnd": "2017-10-31",
+			"consumerIds": [
+				"WCReferral"
+			],
+			"serviceName": "WCReferral.AlarisService.initiateWCReferral",
+			"capabilityGroupName": "Product Management, Underwriting & Processing",
+			"capabilityName": "Claim Management",
+			"componentName": "WCReferral",
+			"interfaceName": "AlarisService",
+			"operationName": "initiateWCReferral",
+			"serviceVersions": [
+				"1.0"
+			]
+		},
+		{
+			"callCount": 169195,
+			"dateTimestampStart": "2017-10-01",
+			"dateTimestampEnd": "2017-10-31",
+			"consumerIds": [
+				"FileNet"
+			],
+			"serviceName": "ClaimCenter.ClaimsInquiryWebService.recentClaimsForUser",
+			"capabilityGroupName": "Product Management, Underwriting & Processing",
+			"capabilityName": "Claim Management",
+			"componentName": "ClaimCenter",
+			"interfaceName": "ClaimsInquiryWebService",
+			"operationName": "recentClaimsForUser",
+			"serviceVersions": [
+				"1.0"
+			]
+		},
+		{
+			"callCount": 33034,
+			"dateTimestampStart": "2017-10-02",
+			"dateTimestampEnd": "2017-10-31",
+			"consumerIds": [
+				"Westfield.UnderwritingManagement.RiskAnalysis.determinePredictionModifier"
+			],
+			"serviceName": "FinancialServicesAgreement.FinancialServicesAgreementObjectManager.findFinancialServicesAgreementComponents",
+			"capabilityGroupName": "Risk, Compliance & Financial Management",
+			"capabilityName": "Financial Management",
+			"componentName": "FinancialServicesAgreement",
+			"interfaceName": "FinancialServicesAgreementObjectManager",
+			"operationName": "findFinancialServicesAgreementComponents",
+			"serviceVersions": [
+				"1.0"
+			]
+		},
+		{
+			"callCount": 52,
+			"dateTimestampStart": "2017-10-02",
+			"dateTimestampEnd": "2017-10-31",
+			"consumerIds": [
+				"ClaimCenter"
+			],
+			"serviceName": "WCReferral.Alaris.initiateWCReferral",
+			"capabilityGroupName": "Product Management, Underwriting & Processing",
+			"capabilityName": "Claim Management",
+			"componentName": "WCReferral",
+			"interfaceName": "Alaris",
+			"operationName": "initiateWCReferral",
+			"serviceVersions": [
+				"1.0"
+			]
+		},
+		{
+			"callCount": 142007,
+			"dateTimestampStart": "2017-10-01",
+			"dateTimestampEnd": "2017-10-31",
+			"consumerIds": [
+				"ClaimCenter",
+				"ClaimCommunicationService",
+				"ClaimSalvage.Client",
+				"LossEvaluation.Client",
+				"ProviderAgreementAdministration.Client",
+				"ThunderheadSupport.archiveTimer"
+			],
+			"serviceName": "ClaimCommunication.establishClaimDocument",
+			"capabilityGroupName": "Product Management, Underwriting & Processing",
+			"capabilityName": "Claim Management",
+			"componentName": "ClaimManagement",
+			"interfaceName": "ClaimCommunication",
+			"operationName": "establishClaimDocument",
+			"serviceVersions": [
+				"1.0"
+			]
+		},
+		{
+			"callCount": 86922,
+			"dateTimestampStart": "2017-10-01",
+			"dateTimestampEnd": "2017-10-31",
+			"consumerIds": [
+				"CommercialSurety.Gateway",
+				"Westfield.ClaimInquiry.Service",
+				"Westfield.FinancialTransactionManager.Service"
+			],
+			"serviceName": "FinancialTransaction.FinancialTransactionManager.generateBillingAccountNumber",
+			"capabilityGroupName": "Risk, Compliance & Financial Management",
+			"capabilityName": "Billing & Payments",
+			"componentName": "FinancialTransaction",
+			"interfaceName": "FinancialTransactionManager",
+			"operationName": "generateBillingAccountNumber",
+			"serviceVersions": [
+				"1.0"
+			]
+		},
+		{
+			"callCount": 23371,
+			"dateTimestampStart": "2017-10-01",
+			"dateTimestampEnd": "2017-10-31",
+			"consumerIds": [
+				"WFLD.MF.PQQTC",
+				"WFLD.MF.PWESD380",
+				"Westfield.53.PL"
+			],
+			"serviceName": "genericPolicyEventNotification",
+			"capabilityGroupName": "Product Management, Underwriting & Processing",
+			"capabilityName": "Policy Processing & Servicing",
+			"componentName": "PolicyManagement",
+			"interfaceName": "PolicyManagement",
+			"operationName": "genericPolicyEventNotification",
+			"serviceVersions": [
+				"1.0"
+			]
+		},
+		{
+			"callCount": 17973,
+			"dateTimestampStart": "2017-10-01",
+			"dateTimestampEnd": "2017-10-31",
+			"consumerIds": [
+				"PolicyStatusChange.War_PolicyStatusChange"
+			],
+			"serviceName": "PolicyManagement.PolicyStatusChange.activateInsurancePolicy",
+			"capabilityGroupName": "Product Management, Underwriting & Processing",
+			"capabilityName": "Policy Processing & Servicing",
+			"componentName": "PolicyManagement",
+			"interfaceName": "PolicyStatusChange",
+			"operationName": "activateInsurancePolicy",
+			"serviceVersions": [
+				"1.0"
+			]
+		},
+		{
+			"callCount": 71205,
+			"dateTimestampStart": "2017-10-01",
+			"dateTimestampEnd": "2017-10-31",
+			"consumerIds": [
+				"LossEvaluation.Client",
+				"Mitchell_Credential",
+				"ClaimCenter",
+				"XactAnalysis_Credential"
+			],
+			"serviceName": "LossEvaluation.recordVehicleDamageEstimateNotification",
+			"capabilityGroupName": "Product Management, Underwriting & Processing",
+			"capabilityName": "Claim Management",
+			"componentName": "ClaimManagement",
+			"interfaceName": "LossEvaluation",
+			"operationName": "recordVehicleDamageEstimateNotification",
+			"serviceVersions": [
+				"1.0"
+			]
+		},
+		{
+			"callCount": 14906,
+			"dateTimestampStart": "2017-10-01",
+			"dateTimestampEnd": "2017-10-31",
+			"consumerIds": [
+				"ClaimCenter"
+			],
+			"serviceName": "PolicyCommunication.findPolicyDocuments",
+			"capabilityGroupName": "Enterprise",
+			"capabilityName": "Electronic Content Management",
+			"componentName": "Communication",
+			"interfaceName": "PolicyCommunication",
+			"operationName": "findPolicyDocuments",
+			"serviceVersions": [
+				"2.0"
+			]
+		},
+		{
+			"callCount": 156453,
+			"dateTimestampStart": "2017-10-01",
+			"dateTimestampEnd": "2017-10-31",
+			"consumerIds": [
+				"Westfield.UnderwritingManagement.RiskAnalysis.determinePredictionModifier"
+			],
+			"serviceName": "Claim.ClaimManager.retrievePriorCarrierClaimSummary",
+			"capabilityGroupName": "Product Management, Underwriting & Processing",
+			"capabilityName": "Claim Management",
+			"componentName": "Claim",
+			"interfaceName": "ClaimManager",
+			"operationName": "retrievePriorCarrierClaimSummary",
+			"serviceVersions": [
+				"1.0"
+			]
+		},
+		{
+			"callCount": 1588472,
+			"dateTimestampStart": "2017-10-01",
+			"dateTimestampEnd": "2017-10-31",
+			"consumerIds": [
+				"ClaimCenter",
+				"Westfield.UnderwritingManagement.RiskAnalysis.determinePredictionModifier",
+				"Westfield.WesCom.CL",
+				"Westfield.WesCom.FAB",
+				"Westfield.WesCom.PL",
+				"WFLD.MF.EUCP",
+				"WFLD.MF.PICP",
+				"WFLD.MF.PQQTC",
+				"WFLD.MF.WPHR",
+				"WFLD.MF.WPRT",
+				"WFLD.MF.EICP",
+				"WFLD.MF.ONLINE.JOB",
+				"WFLD.MF.PIVL",
+				"WFLD.MF.PUCP",
+				"WFLD.MF.PWESD231",
+				"WFLD.MF.PWESD342",
+				"WFLD.MF.PWESD353",
+				"WFLD.MF.PWESD427",
+				"WFLD.MF.PWESD627",
+				"WFLD.MF.PWESD628",
+				"WFLD.MF.PWESD828",
+				"WFLD.MF.PWESO049",
+				"WFLD.MF.PWFCD231",
+				"WFLD.MF.PWFCD284",
+				"WFLD.MF.PWFCD342",
+				"WFLD.MF.PWFCD353",
+				"WFLD.MF.PWFCD427",
+				"WFLD.MF.PWFCD627",
+				"WFLD.MF.PWFCD628",
+				"WFLD.MF.PWFCD828",
+				"WFLD.MF.EUOC",
+				"WFLD.MF.PUOC",
+				"WFLD.MF.EISV",
+				"WFLD.MF.PIOC",
+				"WFLD.MF.PWMCD231",
+				"WFLD.MF.PWMCD342",
+				"WFLD.MF.PWMCD353",
+				"WFLD.MF.PWMCD427",
+				"WFLD.MF.PWMCD627",
+				"WFLD.MF.PWMCD628",
+				"WFLD.MF.PWMCD828",
+				"WFLD.MF.PWESO353",
+				"WFLD.MF.EIOC",
+				"WFLD.MF.PWESO054",
+				"WFLD.MF.PISV"
+			],
+			"serviceName": "PhysicalObjectManager.retrieveModelSpecifications",
+			"capabilityGroupName": "Product Management, Underwriting & Processing",
+			"capabilityName": "Risk Analysis, Underwriting & Pricing",
+			"componentName": "Underwriting",
+			"interfaceName": "PhysicalObjectManager",
+			"operationName": "retrieveModelSpecifications",
+			"serviceVersions": [
+				"1.0"
+			]
+		},
+		{
+			"callCount": 852159,
+			"dateTimestampStart": "2017-10-01",
+			"dateTimestampEnd": "2017-10-31",
+			"consumerIds": [
+				"WFLD.MF.PRPTW888",
+				"Westfield.UnderwritingManagement.RiskAnalysis.determinePredictionModifier",
+				"WFLD.MF.PWFCD284",
+				"Westfield.CiscoIVR",
+				"Westfield.Wescom.WOW",
+				"WFLD.MF.PRPTM705"
+			],
+			"serviceName": "BillingAndCollectionManagement.Billing.retrieveCalculatedPaymentInformation",
+			"capabilityGroupName": "Risk, Compliance & Financial Management",
+			"capabilityName": "Billing & Payments",
+			"componentName": "BillingAndCollectionManagement",
+			"interfaceName": "Billing",
+			"operationName": "retrieveCalculatedPaymentInformation",
+			"serviceVersions": [
+				"2.0",
+				"1.0"
+			]
+		},
+		{
+			"callCount": 16,
+			"dateTimestampStart": "2017-10-03",
+			"dateTimestampEnd": "2017-10-25",
+			"consumerIds": [
+				"ClaimCenter"
+			],
+			"serviceName": "WCReferral.Allegiant.initiateWCReferral",
+			"capabilityGroupName": "Product Management, Underwriting & Processing",
+			"capabilityName": "Claim Management",
+			"componentName": "WCReferral",
+			"interfaceName": "Allegiant",
+			"operationName": "initiateWCReferral",
+			"serviceVersions": [
+				"1.0"
+			]
+		},
+		{
+			"callCount": 23475,
+			"dateTimestampStart": "2017-10-01",
+			"dateTimestampEnd": "2017-10-31",
+			"consumerIds": [
+				"Copart_Credential",
+				"MFTCopart",
+				"ClaimCenter"
+			],
+			"serviceName": "ClaimSalvage.handleVehicleSalvageEventNotification",
+			"capabilityGroupName": "Product Management, Underwriting & Processing",
+			"capabilityName": "Claim Management",
+			"componentName": "ClaimManagement",
+			"interfaceName": "ClaimSalvage",
+			"operationName": "handleVehicleSalvageEventNotification",
+			"serviceVersions": [
+				"1.0"
+			]
+		},
+		{
+			"callCount": 143929,
+			"dateTimestampStart": "2017-10-01",
+			"dateTimestampEnd": "2017-10-31",
+			"consumerIds": [
+				"WFLD.MF.WPHR",
+				"WFLD.MF.PQQTC",
+				"WFLD.MF.PWESD532",
+				"WFLD.MF.PWESD535",
+				"WFLD.MF.PWFCD532",
+				"WFLD.MF.PWFCD535",
+				"WFLD.MF.PWMCD532",
+				"WFLD.MF.PWMCD535"
+			],
+			"serviceName": "PolicyAdministration.rate",
+			"capabilityGroupName": "Product Management, Underwriting & Processing",
+			"capabilityName": "Risk Analysis, Underwriting & Pricing",
+			"componentName": "Risk Rating",
+			"interfaceName": "PolicyAdministration",
+			"operationName": "rate",
+			"serviceVersions": [
+				"1.0"
+			]
+		},
+		{
+			"callCount": 659,
+			"dateTimestampStart": "2017-10-01",
+			"dateTimestampEnd": "2017-10-31",
+			"consumerIds": [
+				"Safelite_Credential",
+				"Captiva",
+				"MFTSafelite"
+			],
+			"serviceName": "ClaimManagement.LossNotification.recordClaimDetails",
+			"capabilityGroupName": "Product Management, Underwriting & Processing",
+			"capabilityName": "Claim Management",
+			"componentName": "ClaimManagement",
+			"interfaceName": "LossNotification",
+			"operationName": "recordClaimDetails",
+			"serviceVersions": [
+				"1.0"
+			]
+		},
+		{
+			"callCount": 920352,
+			"dateTimestampStart": "2017-10-01",
+			"dateTimestampEnd": "2017-10-31",
+			"consumerIds": [
+				"CommercialSurety.Gateway",
+				"DnBReport_webapp",
+				"Westfield.UnderwritingManagement.RiskAnalysis.determinePredictionModifier",
+				"Westfield.WesCom.CL",
+				"Westfield.WesCom.FAB",
+				"WFLD.MF.EIPT",
+				"WFLD.MF.EUPT",
+				"WFLD.MF.PWESW136",
+				"WFLD.MF.PUPT",
+				"WFLD.MF.PWESD350",
+				"WFLD.MF.PWESD705",
+				"WFLD.MF.PWFCD350",
+				"WFLD.MF.PWMCD350",
+				"WFLD.MF.PIPT"
+			],
+			"serviceName": "Party.PartyActivityConditionPlaceManager.generatePersonalCreditScoreAssessment",
+			"capabilityGroupName": "Product Management, Underwriting & Processing",
+			"capabilityName": "Risk Analysis, Underwriting & Pricing",
+			"componentName": "Party",
+			"interfaceName": "PartyActivityConditionPlaceManager",
+			"operationName": "generatePersonalCreditScoreAssessment",
+			"serviceVersions": [
+				"1.0"
+			]
+		},
+		{
+			"callCount": 1803785,
+			"dateTimestampStart": "2017-10-01",
+			"dateTimestampEnd": "2017-10-31",
+			"consumerIds": [
+				"Westfield.UnderwritingManagement.RiskAnalysis.determinePredictionModifier",
+				"Westfield.WesCom.PL",
+				"WFLD.MF.PIHC",
+				"WFLD.MF.PQQTC",
+				"WFLD.MF.PWESD267",
+				"WFLD.MF.WPHR",
+				"WFLD.MF.WPRT",
+				"WFLD.MF.EIHC",
+				"WFLD.MF.EIHE",
+				"WFLD.MF.EIHI",
+				"WFLD.MF.EUHC",
+				"WFLD.MF.EUHE",
+				"WFLD.MF.EUHI",
+				"WFLD.MF.PIHE",
+				"WFLD.MF.PIHI",
+				"WFLD.MF.PIHZ",
+				"WFLD.MF.PILS",
+				"WFLD.MF.PMOED125",
+				"WFLD.MF.PUHC",
+				"WFLD.MF.PUHE",
+				"WFLD.MF.PUHI",
+				"WFLD.MF.PWESD268",
+				"WFLD.MF.PWESD269",
+				"WFLD.MF.PWESD342",
+				"WFLD.MF.PWESD343",
+				"WFLD.MF.PWESD349",
+				"WFLD.MF.PWESD353",
+				"WFLD.MF.PWESD446",
+				"WFLD.MF.PWESD448",
+				"WFLD.MF.PWFCD046",
+				"WFLD.MF.PWFCD342",
+				"WFLD.MF.PWFCD353",
+				"WFLD.MF.PWFCD446",
+				"WFLD.MF.PULS",
+				"WFLD.MF.PWMCD342",
+				"WFLD.MF.PWMCD353",
+				"WFLD.MF.PWMCD446",
+				"WFLD.MF.ONLINE.JOB",
+				"WFLD.MF.PWESO353",
+				"WFLD.MF.DWE6O555",
+				"WFLD.MF.EIHZ",
+				"WFLD.MF.DWE9O555"
+			],
+			"serviceName": "Rating.RatingManager.retrieveRatingStatistics",
+			"capabilityGroupName": "Product Management, Underwriting & Processing",
+			"capabilityName": "Risk Analysis, Underwriting & Pricing",
+			"componentName": "Rating",
+			"interfaceName": "RatingManager",
+			"operationName": "retrieveRatingStatistics",
+			"serviceVersions": [
+				"1.1",
+				"1.0"
+			]
+		},
+		{
+			"callCount": 60404,
+			"dateTimestampStart": "2017-10-01",
+			"dateTimestampEnd": "2017-10-31",
+			"consumerIds": [
+				"ClaimCenter"
+			],
+			"serviceName": "PaymentProcessing.establishOutgoingPayment",
+			"capabilityGroupName": "Risk, Compliance & Financial Management",
+			"capabilityName": "Billing & Payments",
+			"componentName": "PaymentManagement",
+			"interfaceName": "PaymentProcessing",
+			"operationName": "establishOutgoingPayment",
+			"serviceVersions": [
+				"1.0"
+			]
+		},
+		{
+			"callCount": 20,
+			"dateTimestampStart": "2017-10-05",
+			"dateTimestampEnd": "2017-10-31",
+			"consumerIds": [
+				"ClaimCenter"
+			],
+			"serviceName": "WCReferral.Genex.initiateWCReferral",
+			"capabilityGroupName": "Product Management, Underwriting & Processing",
+			"capabilityName": "Claim Management",
+			"componentName": "WCReferral",
+			"interfaceName": "Genex",
+			"operationName": "initiateWCReferral",
+			"serviceVersions": [
+				"1.0"
+			]
+		},
+		{
+			"callCount": 993582,
+			"dateTimestampStart": "2017-10-01",
+			"dateTimestampEnd": "2017-10-31",
+			"consumerIds": [
+				"Unknown",
+				"Westfield.WesCom.PL",
+				"WFLD.MF.PIGC",
+				"WFLD.MF.PQQTC",
+				"WFLD.MF.PRPTW030",
+				"WFLD.MF.PWESD140",
+				"WFLD.MF.PWESW132",
+				"WFLD.MF.WPHR",
+				"WFLD.MF.WPRT",
+				"Westfield.AccountInventory.PreQuote",
+				"WFLD.MF.EIGC",
+				"WFLD.MF.EUGC",
+				"WFLD.MF.ONLINE.JOB",
+				"WFLD.MF.PRPTD933",
+				"WFLD.MF.PUGC",
+				"WFLD.MF.PUHI",
+				"WFLD.MF.PWESD298",
+				"WFLD.MF.PWESD353",
+				"WFLD.MF.PWESD424",
+				"WFLD.MF.PWFCD046",
+				"WFLD.MF.PWFCD284",
+				"WFLD.MF.PWFCD298",
+				"WFLD.MF.PWFCD353",
+				"WFLD.MF.PWFCD424",
+				"Westfield.UnderwritingManagement.RiskAnalysis.determinePredictionModifier",
+				"WFLD.MF.PWMCD298",
+				"WFLD.MF.PWMCD353",
+				"WFLD.MF.PWMCD424",
+				"WFLD.MF.PWESO353",
+				"WFLD.MF.PUDR",
+				"WFLD.MF.PILS",
+				"WFLD.MF.PRPTW130",
+				"WESTFIELD.MAINFRAME.T124"
+			],
+			"serviceName": "UnderwritingManagement.RiskAnalysis.activateScore",
+			"capabilityGroupName": "Product Management, Underwriting & Processing",
+			"capabilityName": "Risk Analysis, Underwriting & Pricing",
+			"componentName": "UnderwritingManagement",
+			"interfaceName": "RiskAnalysis",
+			"operationName": "activateScore",
+			"serviceVersions": [
+				"1.0",
+				"1.1"
+			]
+		},
+		{
+			"callCount": 402440,
+			"dateTimestampStart": "2017-10-01",
+			"dateTimestampEnd": "2017-10-31",
+			"consumerIds": [
+				"WFLD.MF.WPHR",
+				"WFLD.MF.WRAU",
+				"WFLD.MF.PQQTC",
+				"WFLD.MF.PWESD443",
+				"WFLD.MF.PWESD565",
+				"WFLD.MF.PWFCD049",
+				"WFLD.MF.PWFCD443",
+				"WFLD.MF.PWFCD565",
+				"WFLD.MF.PWMCD443",
+				"WFLD.MF.PWMCD565"
+			],
+			"serviceName": "RatingService.updateRatingTransactionStatus",
+			"capabilityGroupName": "Product Management, Underwriting & Processing",
+			"capabilityName": "Risk Analysis, Underwriting & Pricing",
+			"componentName": "Risk Rating",
+			"interfaceName": "RatingService",
+			"operationName": "updateRatingTransactionStatus",
+			"serviceVersions": [
+				"1.0"
+			]
+		}
+	]
+}
